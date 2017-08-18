@@ -36,7 +36,7 @@ My current areas of interest include NodeJS and AngularJS development, and incor
 
 ## Education
 
-University of Melbourne
+### University of Melbourne
 
 
 BSc (Computing and Software Systems) Key Subjects:
@@ -54,7 +54,7 @@ Software Modeling and Design
 Artificial Intelligence
 
 
-# Northcote High School
+### Northcote High School
 
 VCE (Victorian Certificate of Education) Key Subjects: 
 
@@ -88,6 +88,7 @@ Business Management Exam in year 11
 ## Casual/Freelance Experiences:
 
 Interpreter (English/Mandarin)
+
 Web Developer for Ricky Tours
 
 This is a basic self project I've started during the 2015 winter break holidays, it is mainly to gain more experience in making responsive websites with the Ruby on Rails framework. It was a quick 24 hour marathon to play around with the emailing function which turned into something that was usable, I am still adding more features in it now and then. Need more front-end touches. 
