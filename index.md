@@ -72,7 +72,7 @@ The link to the website is provided below in the work presentation section. (Loa
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/haomichaelliu/) and ![Image](https://www.linkedin.com/in/haomichaelliu/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
