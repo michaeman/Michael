@@ -1,19 +1,30 @@
 ## Welcome to my resume, here is a little about me
 
 Full Name: Hao (Michael) Liu
+
 23 Years old
+
 Location: Melbourne, VIC
+
 Nationality: Chinese
+
 Citizenship: Australian
+
 Languages: Chinese (Mandarin) and English
+
 Email: mliuhaoo@gmail.com
+
 
 ### Interests and hobbies
 
 Mobile App and web development
+
 Travelling
+
 PC Gaming
+
 Compiling computers
+
 
 ### About
 I'm Michael. I've loved technology since I was very young, at the age of 6 I received my first console, the Nintendo 64. This was the beginning of my everlasting bond with technology. 
@@ -27,29 +38,52 @@ My current areas of interest include NodeJS and AngularJS development, and incor
 
 University of Melbourne
 
+
 BSc (Computing and Software Systems) Key Subjects:
+
 IT Project
+
 Usability Engineering
+
 Web Information Technologies
+
 Graphics and Interaction
+
 Software Modeling and Design
+
 Artificial Intelligence
-Northcote High School
+
+
+# Northcote High School
 
 VCE (Victorian Certificate of Education) Key Subjects: 
+
 English
+
 Physics
+
 Mathematical Methods
+
 Further Mathematics
+
 Chinese (Second Language Advanced) Exam in year 11
+
 Business Management Exam in year 11
+
+
 
 ## Experiences in IT/Computing:
 3 years experience in Ruby on rails web development
+
 2 years experience C
+
 2 years experience Python (1 year Web dev)
+
 1 year experience iOS Objective-C
+
 1 year experience iOS Swift
+
+
 
 ## Casual/Freelance Experiences:
 
@@ -72,7 +106,7 @@ The link to the website is provided below in the work presentation section. (Loa
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.linkedin.com/in/haomichaelliu/) and ![Image](https://www.linkedin.com/in/haomichaelliu/)
+[My Linkedin Profile](https://www.linkedin.com/in/haomichaelliu/) and ![Image](https://www.linkedin.com/in/haomichaelliu/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
