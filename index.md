@@ -1,6 +1,7 @@
 ## Welcome to my resume, here is a little about me
 
-Full Name: Hao (Michael) Liu 
+Full Name: Hao (Michael) Liu
+
 23 Years old 
 Location: Melbourne, VIC 
 Nationality: Chinese 
